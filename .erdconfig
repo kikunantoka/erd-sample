@@ -1,1 +1,2 @@
+exclude: 'ActiveRecord::InternalMetadata, ActiveRecord::SchemaMigration'
 filetype: png
